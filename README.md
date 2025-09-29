@@ -15,4 +15,4 @@ No JavaScript or backend involved — just clean, responsive frontend code!
 ---
 
 ## 🚀 How to Run
-https://reshamss.github.io/Netflix-clone/
+https://resnetf.netlify.app/
